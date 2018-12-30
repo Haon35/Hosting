@@ -1,43 +1,46 @@
 ___
 
-[**ArcticMC Twitter**](https://twitter.com/ArcticUHC) || [**My Twitter**](https://twitter.com/HaonUHC) || [**Game Suggestion Form**](https://docs.google.com/forms/d/e/1FAIpQLScrNtVMoPXE9iJ8MseM713Db0s2--_jweUUKMQhQ9SLBnCrJw/viewform)  || [**UBL Guidelines**](https://www.reddit.com/r/uhccourtroom/wiki/banguidelines)
- 
+[**My Twitter**](https://twitter.com/HaonUHC) || [**Game Suggestion Form**](https://docs.google.com/forms/d/e/1FAIpQLScrNtVMoPXE9iJ8MseM713Db0s2--_jweUUKMQhQ9SLBnCrJw/viewform) || [**My Personal Hosting Doc**](https://docs.google.com/spreadsheets/d/1AvkXlTwET-JAgTVPk_IZGDPtgL7cQNv5beCp2WPecP0/edit?usp=sharing)  || [**UBL Guidelines**](https://www.reddit.com/r/uhccourtroom/wiki/banguidelines)
 &nbsp;
 ___
-###[Server Information](#I)
+###[» Server Information «](#I)
 ___
  
  | [](#I)
 ---|---
-**Server**       | Arctic UHC {{region}}, Owned by [**LeonTG**](https://twitter.com/LeonTG_) and [**Hoookey**](https://twitter.com/Hoookey_)
-**Location**     | {{location}}
+**Server** | Arctic UHC {{region}}, Owned by [**LeonTG**](https://twitter.com/LeonTG_) and [**Hoookey**](https://twitter.com/Hoookey_)
+**Location** | {{location}}
 |
-**IP Address**  | {{address}}
+**IP**  | {{address}}
+**Hub (EU) IP**  | eu.arcticmc.net
+**Hub (NA) IP**  | na.arcticmc.net
 |
-**RAM**      | 4GB *(Provided by [**NodeCraft**](https://nodecraft.com/))*
+**RAM**      | 8GB
 **Slots**     | {{slots}} *(use /wl <IGN> to wl players)*
 **Version**  | {{version}} 
  
 &nbsp;
 ___
-###[Match Information](#I)
+###[» Match Information «](#I)
 ___
- 
  
  | [](#I)
 ---|---
-**Whitelist Off** | [**{{opens|moment>MMM DD HH:mm z}}**](http://time.is/UTC)
-**Whitelist On** | 3 (FFA) or 6 (Teams) Minutes after the opening time
+**Match** | **{{hostingName}}'s #{{count}} - {{teams}} - {{scenarios|join>, }}**
 |
-**Final Heal** | 20 Seconds after start.
-**PvP/iPvP** | {{pvpEnabledAt}} Minutes after start.
-**Meetup** | {{length}} Minutes after start.
-**Map size** | {{mapSize}}x{{mapSize}} diameter
-
+**Whitelist Off** | [**{{opens|moment>MMM DD HH:mm z}}**](http://time.is/UTC)
+**Whitelist On** | 3 Minutes after the opening time
+|
+**Final Heal** | 20 Seconds after start *(there will only be one final heal, do not ask for another one)*
+**PvP** | {{pvpEnabledAt}} Minutes after start
+**Meet-Up** | {{length}} Minutes after start
+**Map size** | {{mapSize}}x{{mapSize}} diameter *(I have the right to change the border size, depending on the fill)*
+ 
 &nbsp;
 ___
-###[Scenario Information](#I)
+###[» Scenarios Information «](https://pastebin.com/KzXNkEfz)
 ___
+ 
  | [](#I)
 ---|---
 **CutClean**|All food and ores drop smelted
@@ -47,13 +50,13 @@ ___
 
 &nbsp;
 ___
-###[Game Information](#I)
+###[» Game Information «](#I)
 ___
  
  | [](#I)
 ---|---
 **Absorption** | Disabled
-**Golden Heads** | Enabled *(heals 4 hearts, stackable)*
+**Golden Heads** | Enabled *(heals 4 hearts, stackable)* *(player heads spawn on a nether fence)*
 **Notch Apples** | Disabled
 |
 **Apple Rates** | 2% *(apples are only dropping from oak and dark oak)*
@@ -81,13 +84,13 @@ ___
 **Supply Drops** | Disabled
 **Starter Absorption** | Disabled
 **Pearl Damage** | Enabled *(deals 1 heart)*
-**Ore Rates**| 85% *(15% of diamonds, gold and redstone are removed)*
+**Ore Rates**| Vanilla
 
 * *(Use /UHC in-game to access the game configuration)*
 
 &nbsp;
 ___
-###[Rules](#I)
+###[» Rules «](#I)
 ___
 
  | [](#I)
@@ -101,32 +104,40 @@ ___
 **Mining to Players:**| Allowed
 **Mining to Entites:**| Allowed
 |
-**Stalking**| Allowed *(Until Caught)*
+**Stalking**| Allowed *(not excessive, you can use /helpop if you're being excessively stalked)*
 **Stealing:**| Allowed
+**iPvP:**| Not Allowed
+|
 **Towering:**| Allowed until Meetup *(you will have to jump down at meetup)*
 **Forting:**| Allowed until Meetup *(3+ walls)*
 **Running:**| Allowed until Meetup
 **Camping:**| Allowed until Meetup
-**Dig Down:**| Allowed until Meetup
+**Digging Down:**| Allowed until Meetup
 **Mining at Meetup:**| Not Allowed
-**Cross Teaming:**| Never allowed
+**Cross Teaming:**| Not Allowed
 
 * *(If you're not following these rules, you will get warned/dq'd)*
 
+* *(Use C-Counter at your own risk)*
+
 &nbsp;
 ___
-###[Extra Information](#I)
+###[» Extra Information «](#I)
 ___
-
-* There is **NO** starter food
-
-* Permaday will be enable at meetup
-
-* Blocks will decay at meetup
 
 * [Teamspeak 3](https://www.teamspeak.com/teamspeak3) and a working microphone is required for all Random, Picked and Captains games
 
-* I have the right to change the border size *(depending on the fill)*
+* Stay updated by following our [**Twitter**](https://twitter.com/ArcticUHC) and joining us on our [**Discord**](https://discord.me/ArcticMC)
+
+* You can buy a donator rank on our [**Store**](https://store.arcticmc.net)
+
+* You can appeal a punishment by DM'ing us on our [**Twitter**](https://twitter.com/ArcticUHC)
+
+* You can apply for spectator [**here**](https://docs.google.com/forms/d/e/1FAIpQLSeRckVR6QzRGXf7eSwkrcDV7VCQuEC9rGsCk3AToCgkftnmeA/viewform)
+
+* You can report a Staff member [**here**](https://docs.google.com/forms/d/e/1FAIpQLScdSwgvgpCOb1nFWmuWyINhpjhqaf2Io0AKbcfZh1FnwiFkvQ/viewform)
+
+* Our plugins are coded by [**LeonTG**](https://twitter.com/LeonTG_)
 
 * Enjoy the game and have fun!
 
