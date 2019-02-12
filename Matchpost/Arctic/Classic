@@ -12,12 +12,12 @@ ___
 **Location** | {{location}}
 |
 **IP**  | {{address}}
-**Hub (EU) IP**  | eu.arcticmc.net
-**Hub (NA) IP**  | na.arcticmc.net
+**Hub IP (EU)**  | eu.arcticmc.net
+**Hub IP (NA)**  | na.arcticmc.net
 |
 **RAM**      | 8GB
-**Slots**     | {{slots}} *(use /wl <IGN> to wl players)*
-**Version**  | {{version}} 
+**Slots**     | {{slots}} *(use /wl <IGN> to wl players in FFA and Teams games)*
+**Version**  | {{version}}
  
 &nbsp;
 ___
@@ -29,11 +29,11 @@ ___
 **Match** | **{{hostingName}}'s #{{count}} - {{teams}} - {{scenarios|join>, }}**
 |
 **Whitelist Off** | [**{{opens|moment>MMM DD HH:mm z}}**](http://time.is/UTC)
-**Whitelist On** | 3 Minutes after the opening time
+**Whitelist On** | 3 (FFA), 6 (Teams) Minutes after the opening time
 |
 **Final Heal** | 20 Seconds after start *(there will only be one final heal, do not ask for another one)*
-**PvP** | {{pvpEnabledAt}} Minutes after start
-**Meet-Up** | {{length}} Minutes after start
+**PvP** | {{pvpEnabledAt}} Minutes after start *(I have the right to change the PvP time, depending on the fill)*
+**Meet-Up** | {{length}} Minutes after start *(I have the right to change the meet-up time, depending on the fill)*
 **Map size** | {{mapSize}}x{{mapSize}} diameter *(I have the right to change the border size, depending on the fill)*
  
 &nbsp;
@@ -43,7 +43,7 @@ ___
  
  | [](#I)
 ---|---
-**CutClean**|All food and ores drop smelted
+**CutClean**| All food and ores drop smelted
 **Scen**|
 
 * *(You can bring these descriptions up in the game with /scen)*
@@ -63,7 +63,7 @@ ___
 **Flint Rates**|70%
 **Shears** | Enabled *(works for apples and leaves)*
 |
-**Horses** | Enabled
+**Horses** | Enabled *(only 1 per teams)*
 **Horse Armor** | Disabled
 **Horse Healing** | Disabled
 | 
@@ -75,10 +75,10 @@ ___
 **Portal Trapping**|N/A
 | 
 **Death Lightning** | Enabled
-**Border Shrink Mode** | Teleport
+**Border Shrink Mode** | Teleport *(borders will start shrinking 10 minutes before meet-up)*
 **Double Arrows** | Enabled *(8 arrows per craft)*
 **Bookshelves** | Enabled
-**Split Enchants** | Enabled
+**Split Enchants** | Enabled *(you can split enchants on a book using /split)*
 **Fire Aspect** | Enabled *(only from found books)*
 **Flame** | Enabled *(only from found books)*
 **Supply Drops** | Disabled
@@ -137,7 +137,7 @@ ___
 
 * You can report a Staff member [**here**](https://docs.google.com/forms/d/e/1FAIpQLScdSwgvgpCOb1nFWmuWyINhpjhqaf2Io0AKbcfZh1FnwiFkvQ/viewform)
 
-* Our plugins are coded by [**LeonTG**](https://twitter.com/LeonTG_)
+* Our plugins are coded by [**LeonTG**](https://twitter.com/LeonTG_) with help from **ghowden**, **TheTonyk**, **D4mnX** and **GyllieGyllie**
 
 * Enjoy the game and have fun!
 
