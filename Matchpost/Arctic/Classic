@@ -1,120 +1,118 @@
 ___
 
-[**My Twitter**](https://twitter.com/HaonUHC) || [**Game Suggestion Form**](https://docs.google.com/forms/d/e/1FAIpQLScrNtVMoPXE9iJ8MseM713Db0s2--_jweUUKMQhQ9SLBnCrJw/viewform) || [**My Personal Hosting Doc**](https://docs.google.com/spreadsheets/d/1AvkXlTwET-JAgTVPk_IZGDPtgL7cQNv5beCp2WPecP0/edit?usp=sharing)  || [**UBL Guidelines**](https://www.reddit.com/r/uhccourtroom/wiki/banguidelines)
+[**Twitter**](https://twitter.com/HaonUHC) || [**Game Suggestion Form**](https://docs.google.com/forms/d/e/1FAIpQLScrNtVMoPXE9iJ8MseM713Db0s2--_jweUUKMQhQ9SLBnCrJw/viewform) || [**Hosting Doc**](https://docs.google.com/spreadsheets/d/1AvkXlTwET-JAgTVPk_IZGDPtgL7cQNv5beCp2WPecP0/edit?usp=sharing)  || [**UBL Guidelines**](https://www.reddit.com/r/uhccourtroom/wiki/banguidelines)
 &nbsp;
 ___
-###[» Server Information «](#I)
+###[» Server Information](#I)
 ___
  
  | [](#I)
 ---|---
-**Server** | Arctic UHC {{region}}, Owned by [**LeonTG**](https://twitter.com/LeonTG_) and [**Hoookey**](https://twitter.com/Hoookey_)
-**Location** | {{location}}
+**Server**| Arctic UHC {{region}}, Owned by [**LeonTG**](https://twitter.com/LeonTG_)
+**Location**| {{location}}
 |
-**IP**  | {{address}}
-**Hub IP (EU)**  | eu.arcticmc.net
-**Hub IP (NA)**  | na.arcticmc.net
+**IP**| {{address}}
+**Hub IP (EU)**| eu.arcticmc.net
+**Hub IP (NA)**| na.arcticmc.net
 |
-**RAM**      | 8GB
-**Slots**     | {{slots}} *(use /wl <IGN> to wl players in FFA and Teams games)*
-**Version**  | {{version}}
+**RAM**| 6GB
+**Slots**| {{slots}} *(use /wl <IGN> to wl players in FFA and Teams games)*
+**Version**| {{version}}
  
 &nbsp;
 ___
-###[» Match Information «](#I)
+###[» Match Information](#I)
 ___
  
  | [](#I)
 ---|---
-**Match** | **{{hostingName}}'s #{{count}} - {{teams}} - {{scenarios|join>, }}**
+**Match**| **{{hostingName}}'s #{{count}} - {{teams}} - {{scenarios|join>, }}**
 |
-**Whitelist Off** | [**{{opens|moment>MMM DD HH:mm z}}**](http://time.is/UTC)
-**Whitelist On** | 3 (FFA), 6 (Teams) Minutes after the opening time
+**Whitelist Off**| [**{{opens|moment>MMM DD HH:mm z}}**](http://time.is/UTC)
+**Whitelist On**| 3 (FFA), 6 (Teams) Minutes after the opening time
 |
-**Final Heal** | 20 Seconds after start *(there will only be one final heal, do not ask for another one)*
-**PvP** | {{pvpEnabledAt}} Minutes after start *(I have the right to change the PvP time, depending on the fill)*
-**Meet-Up** | {{length}} Minutes after start *(I have the right to change the meet-up time, depending on the fill)*
-**Map size** | {{mapSize}}x{{mapSize}} diameter *(I have the right to change the border size, depending on the fill)*
+**Final Heal**| 20 Seconds after start *(there will only be one final heal, do not ask for another one)*
+**PvP**| {{pvpEnabledAt}} Minutes after start *(I have the right to change the PvP time, depending on the fill)*
+**Meet-Up**| {{length}} Minutes after start *(I have the right to change the meet-up time, depending on the fill)*
+**Map size**| {{mapSize}}x{{mapSize}} diameter *(I have the right to change the border size, depending on the fill)*
  
 &nbsp;
 ___
-###[» Scenarios Information «](https://pastebin.com/KzXNkEfz)
+###[» Scenarios Information](https://pastebin.com/KzXNkEfz)
 ___
  
  | [](#I)
 ---|---
-**CutClean**| All food and ores drop smelted
-**Scen**|
 
 * *(You can bring these descriptions up in the game with /scen)*
 
 &nbsp;
 ___
-###[» Game Information «](#I)
+###[» Game Information](#I)
 ___
  
  | [](#I)
 ---|---
-**Absorption** | Disabled
-**Golden Heads** | Enabled *(heals 4 hearts, stackable)* *(player heads spawn on a nether fence)*
-**Notch Apples** | Disabled
+**Absorption**| Disabled
+**Golden Heads**| Enabled *(heals 4 hearts, stackable)* *(player heads spawn on a nether fence)*
+**Notch Apples**| Disabled
 |
-**Apple Rates** | 2% *(apples are only dropping from oak and dark oak)*
+**Apple Rates**| 2% *(apples are only dropping from oak and dark oak)*
 **Flint Rates**|70%
-**Shears** | Enabled *(works for apples and leaves)*
+**Shears**| Enabled *(works for apples and leaves)*
 |
-**Horses** | Enabled *(only 1 per teams)*
-**Horse Armor** | Disabled
-**Horse Healing** | Disabled
+**Horses**| Enabled *(only 1 per teams)*
+**Horse Armor**| Disabled
+**Horse Healing**| Disabled
 | 
-**Nether** | Disabled
-**Tier 2** | N/A
-**Strength** | N/A
-**Quartz Xp** | N/A
+**Nether**| Disabled
+**Tier 2**| N/A
+**Strength**| N/A
+**Quartz Xp**| N/A
 **Portal Camping**|N/A
 **Portal Trapping**|N/A
 | 
-**Death Lightning** | Enabled
-**Border Shrink Mode** | Teleport *(borders will start shrinking 10 minutes before meet-up)*
-**Double Arrows** | Enabled *(8 arrows per craft)*
-**Bookshelves** | Enabled
-**Split Enchants** | Enabled *(you can split enchants on a book using /split)*
-**Fire Aspect** | Enabled *(only from found books)*
-**Flame** | Enabled *(only from found books)*
-**Supply Drops** | Disabled
-**Starter Absorption** | Disabled
-**Pearl Damage** | Enabled *(deals 1 heart)*
+**Death Lightning**| Enabled
+**Border Shrink Mode**| Teleport *(borders will start shrinking 10 minutes before meet-up)*
+**Double Arrows**| Enabled *(8 arrows per craft)*
+**Bookshelves**| Enabled
+**Split Enchants**| Enabled *(you can split enchants on a book using /split)*
+**Fire Aspect**| Enabled *(only from found books)*
+**Flame**| Enabled *(only from found books)*
+**Supply Drops**| Disabled
+**Starter Absorption**| Disabled
+**Pearl Damage**| Enabled *(deals 1 heart)*
 **Ore Rates**| 85% *(15% of diamonds, gold and redstone are removed)*
 
 * *(Use /UHC in-game to access the game configuration)*
 
 &nbsp;
 ___
-###[» Rules «](#I)
+###[» Rules](#I)
 ___
 
  | [](#I)
 ---|---
 **Strip Mining** | Allowed *(ores only spawns in caves)*
 **Poke Holing** | Allowed 
-**Rollercoasting:**| Allowed
+**Rollercoasting**| Allowed
 **Staircasing:**| Allowed
 |
-**Mining to Sounds:**| Allowed
-**Mining to Players:**| Allowed
-**Mining to Entites:**| Allowed
+**Mining to Sounds**| Allowed
+**Mining to Players**| Allowed
+**Mining to Entites**| Allowed
 |
 **Stalking**| Allowed *(not excessive, you can use /helpop if you're being excessively stalked)*
-**Stealing:**| Allowed
-**iPvP:**| Not Allowed
+**Stealing**| Allowed
+**iPvP**| Not Allowed
 |
-**Towering:**| Allowed until Meetup *(you will have to jump down at meetup)*
-**Forting:**| Allowed until Meetup *(3+ walls)*
-**Running:**| Allowed until Meetup
-**Camping:**| Allowed until Meetup
-**Digging Down:**| Allowed until Meetup
-**Mining at Meetup:**| Not Allowed
-**Cross Teaming:**| Not Allowed
+**Towering**| Allowed until Meetup *(you will have to jump down at meetup)*
+**Forting**| Allowed until Meetup *(3+ walls)*
+**Running**| Allowed until Meetup
+**Camping**| Allowed until Meetup
+**Digging Down**| Allowed until Meetup
+**Mining at Meetup**| Not Allowed
+**Cross Teaming**| Not Allowed
 
 * *(If you're not following these rules, you will get warned/dq'd)*
 
@@ -122,7 +120,7 @@ ___
 
 &nbsp;
 ___
-###[» Extra Information «](#I)
+###[» Extra Information](#I)
 ___
 
 * [Teamspeak 3](https://www.teamspeak.com/teamspeak3) and a working microphone is required for all Random, Picked and Captains games
