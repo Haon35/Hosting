@@ -12,10 +12,8 @@ ___
 **Location**| {{location}}
 |
 **IP**| {{address}}
-**Hub IP (EU)**| eu.arcticmc.net
-**Hub IP (NA)**| na.arcticmc.net
 |
-**RAM**| 6GB
+**RAM**| 8GB
 **Slots**| {{slots}} *(use /wl <IGN> to wl players in FFA and Teams games)*
 **Version**| {{version}}
  
@@ -50,39 +48,6 @@ ___
 ___
 ###[» Game Information](#I)
 ___
- 
- | [](#I)
----|---
-**Absorption**| Disabled
-**Golden Heads**| Enabled *(heals 4 hearts, stackable)* *(player heads spawn on a nether fence)*
-**Notch Apples**| Disabled
-|
-**Apple Rates**| 2% *(apples are dropping from all trees)*
-**Flint Rates**|70%
-**Shears**| Enabled *(works for apples and leaves)*
-|
-**Horses**| Enabled *(only 1 per teams)*
-**Horse Armor**| Disabled
-**Horse Healing**| Disabled
-| 
-**Nether**| Disabled
-**Tier 2**| N/A
-**Strength**| N/A
-**Quartz Xp**| N/A
-**Portal Camping**|N/A
-**Portal Trapping**|N/A
-| 
-**Death Lightning**| Enabled
-**Border Shrink Mode**| Teleport *(borders will start shrinking 10 minutes before meet-up)*
-**Double Arrows**| Enabled *(8 arrows per craft)*
-**Bookshelves**| Enabled
-**Split Enchants**| Enabled *(you can split enchants on a book using /split)*
-**Fire Aspect**| Enabled *(only from found books)*
-**Flame**| Enabled *(only from found books)*
-**Supply Drops**| Disabled
-**Starter Absorption**| Disabled
-**Pearl Damage**| Enabled *(deals 1 heart)*
-**Ore Rates**| 85% *(15% of diamonds, gold and redstone are removed)*
 
 * *(Use /UHC in-game to access the game configuration)*
 
@@ -93,7 +58,7 @@ ___
 
  | [](#I)
 ---|---
-**Strip Mining** | Allowed *(ores only spawns in caves)*
+**Strip Mining** | Allowed *(ores only spawn in caves)*
 **Poke Holing** | Allowed 
 **Rollercoasting**| Allowed
 **Staircasing:**| Allowed
