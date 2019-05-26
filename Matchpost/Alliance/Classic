@@ -1,6 +1,6 @@
 ## ***Alliance UHC***
 
-[Twitter](https://twitter.com/AllianceUHC) || [Discord](https://discordapp.com/invite/eYQntPZ) || [Staff Applications Open](https://redd.it/3thimk)
+[Twitter](https://twitter.com/AllianceUHC) || [Discord](https://discordapp.com/invite/eYQntPZ) || [Staff Applications](https://redd.it/3thimk)
 &nbsp;
 ___
 ###[» Server Information](#I)
@@ -33,62 +33,6 @@ ___
 
 &nbsp;
 ___
-###[» Game Information](#I)
-___
- 
- | [](#I)
----|---
-**Absorption** | Disabled
-**Golden Heads** | Enabled *(heal 4 hearts)*
-**Notch Apples** | Disabled
-|
-**Apple Rates** | 2% *(apples are dropping from all trees)*
-**Flint Rates** | 80%
-**Shears**| Enabled *(works for apples and leaves)*
-|
-**Horses**| Disabled
-**Horse Armor**| Disabled
-**Horse Healing**| Disabled
-|
-**Nether**| Disabled
-**Brewing Stands**| Disabled
-**Tier 2**| Disabled
-**Strength**| Disabled
-**Splash**| Disabled
-**Quartz Xp**| Disabled
-**Hard Melon Recipe**| Disabled
-**Ghast Drops**| Normal
-|
-**Death Lightning**| Enabled
-**Border Shrink Mode**| Teleport *(borders will start shrinking 15 minutes before meet-up)*
-**Double Arrows**| Enabled *(8 arrows per craft)*
-**String Craft Recipe**| Enabled *(use 4 wool)*
-**Skeleton Loot Increase**| Enabled
-**Quadruple Torches**| Enabled
-**Bookshelves**| Disabled
-**Fire Weapons**| Disabled
-**Pearl Damage**| Disabled
-**Ore Rates**| Balanced *(15% of diamonds, 10% of gold and 5% of redstone are removed)*
-
-* *(Use /UHC in-game to access the game configuration)*
-
-&nbsp;
-___
-###[» Rules](#I)
-___
- 
- | [](#I)
----|---
-**Stalking**| Allowed *(not excessive, you can use /helpop if you're being excessively stalked)*
-**Stealing**| Allowed
-**iPvP**| Not Allowed
-|
-**Towering**| Allowed until Meetup *(you will have to jump down at meetup)*
-**Forting**| Allowed until Meetup *(3+ walls)*
-**Digging Down**| Allowed until Meetup
-
-&nbsp;
-___
 ###[» Scenarios Information](#I)
 ___
  
@@ -96,19 +40,13 @@ ___
 ---|---
 **CutClean**| All ores/food drop their smelted variant
 
-* *(You can bring these descriptions up in the game with /scen)*
+* *(You can bring these descriptions up in the game with /sce)*
 
 &nbsp;
 ___
-###[» Useful Commands](#I)
+###[» Game Information](#I)
 ___
 
-/timeleft - see how many minutes until pvp + meetup
+* *(Use /UHC in-game to access the game configuration)*
 
-/mp - Get this matchpost back
-
-/arena - Practice pvp before the match starts
-
-/playersettings - Change bow display, enable picktorch, night vision and disable 1.8 stone all in one gui
-
-___
+&nbsp;
