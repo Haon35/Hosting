@@ -1,0 +1,62 @@
+## ***Alliance UHC***
+
+___
+
+[**Twitter**](https://twitter.com/HaonUHC) || [**Game Suggestion Form**](https://docs.google.com/forms/d/e/1FAIpQLScrNtVMoPXE9iJ8MseM713Db0s2--_jweUUKMQhQ9SLBnCrJw/viewform) || [**Hosting Doc**](https://docs.google.com/spreadsheets/d/1AvkXlTwET-JAgTVPk_IZGDPtgL7cQNv5beCp2WPecP0/edit?usp=sharing)  || [**UBL Guidelines**](https://www.reddit.com/r/uhccourtroom/wiki/banguidelines)
+&nbsp;
+___
+###[» Server Information](#I)
+___
+ 
+ | [](#I)
+---|---
+**IP** | {{address}}
+**Provider** | TitanNodes
+**RAM** | 10GB
+**Location** | {{location}}
+**Version** | {{version}}
+**Slots** | {{slots}}
+ 
+&nbsp;
+___
+###[» Match Information](#I)
+___
+ 
+ | [](#I)
+---|---
+**Match** | **{{hostingName}}'s #{{count}} - {{teams}} - {{scenarios|join>, }}**
+|
+**Whitelist Off** | [**{{opens|moment>MMM DD HH:mm z}}**](http://time.is/UTC)
+**Whitelist On** | 4 (FFA), 8 (Teams) Minutes after the opening time
+|
+**Meetup** | {{length}} Minutes In
+**PvP*** | {{pvpEnabledAt}} Minutes In
+**Map Size** | {{mapSize}}x{{mapSize}} diameter
+
+&nbsp;
+___
+###[» Scenarios Information](https://pastebin.com/KzXNkEfz)
+___
+
+* *(You can bring these descriptions up in the game with /scen)*
+
+&nbsp;
+___
+###[» Game Information](#I)
+___
+
+* *(Use /UHC in-game to access the game configuration)*
+
+&nbsp;
+___
+###[» Extra Information](#I)
+___
+
+* Stay updated by following our [**Twitter**](https://twitter.com/AllianceUHC) and joining us on our [**Discord**](https://discordapp.com/invite/eYQntPZ)
+
+* You can apply for staff [**here**](https://redd.it/3thimk)
+
+* Enjoy the game and have fun!
+
+&nbsp;
+___
