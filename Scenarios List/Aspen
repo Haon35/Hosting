@@ -1,149 +1,177 @@
-100 Hearts:
-
-Amplified Terrain:
-
-Aurophobia:
-
-Barebones:
-
-Beta Zombies:
-
-BigCrack:
-
-Bleeding Sweets:
-
-Block Rush:
-
-Blocked:
-
-Bowless:
-
-Carrot Combo:
-
-ChockClean:
-
-Christmas:
-
-Chunk Apocalypse:
-
-Cripple:
-
-Cupid:
-
-CutClean:
-
-Depths:
-
-Diamondless:
-
-Dried Out:
-
-Eggs:
-
-Enchanted Death:
-
-End Meetup:
-
-Fast Getaway:
-
-Fast Smelting:
-
-Fireless:
-
-Flower Power:
-
-Gap Zap:
-
-Gold Rush:
-
-Goldless:
-
-Grave Robbers:
-
-Halloween:
-
-Hastey Boys:
-
-Hastey Getaway:
-
-Ignition:
-
-Infinite Potential Hearts:
-
-Inventors:
-
-Inverted Depths:
-
-Iron Drop:
-
-Lavaless:
-
-Market:
-
-Melee Fun:
-
-Mob Shots:
-
-Moles:
-
-Moved 0.0:
-
-Nether Warfare:
-
-No Anvil:
-
-No Clean:
-
-No Diamond Armor:
-
-No Fall:
-
-OddTodd:
-
-Parafusion:
-
-Paranoia:
-
-Permanight:
-
-Player Swap:
-
-Pyrophobia:
-
-Rewarding Longshots:
-
-Rodless:
-
-Rush:
-
-Shovel Shortage:
-
-Sky Ores:
-
-Split Spawn:
-
-Stock-Up:
-
-Switcheroo:
-
-Team Inventory:
-
-Timber:
-
-TimeBomb:
-
-Underground Parallel:
-
-Vanilla:
-
-Vanilla+:
-
-VeinMiner:
-
-Vengeful Spirits:
-
-Voidscape:
-
-Waterless:
-
-Webcage:
+100 Hearts:You have 100 hearts.
+ 
+Amplified Terrain:The world is generated with amplified terrain. Meaning there are huge mountains.
+ 
+Aurophobia:Whenever you mine gold you have a chance of getting damaged by a heart, getting spawned 2 silverfish on you, losing the gold, getting blindness for 10 seconds. getting a cavespider spawned on you or nothing at all.
+ 
+Barebones:Your best tier of mining is Iron, you cannot mine Gold or Diamonds, or obtain any anvils or enchant tables. If you kill a player they will drop 1 diamond, a golden apple, 2 string and 32 arrows.
+ 
+Battle Siren:Coordinates are broadcasted when 2 players start fighting.
+ 
+Betazombies:Zombies Drop a Feather on death.
+ 
+Big Crack:A Chunk Error running on the X or Z axis splits the world in half.
+ 
+Bleeding Sweets:Whenever a player dies, they will drop a diamond, 5 gold, a book, 1 string, 16 arrows.
+ 
+Block Rush:Mining a specific block for the first time will give the player a reward of 1 gold ingot.
+ 
+Blocked:You can't break the blocks you place. Other players can break your blocks, and you can break theirs.
+ 
+Blood Diamonds:Every time you mine a diamond, you take 0.5 hearts of damage.
+ 
+Blood Lapis:When you mine a lapis lazuli ore, you will take half a heart.
+ 
+Blood Thirsty:After you kill someone, you get Strength I for 20 seconds.
+ 
+Bombers:All players tsart out with an unbreakable flint and steel. Most mobs drop tnt.
+ 
+Bowless:You cannot craft/use a bow.
+ 
+Chock Clean:When you kill a chicken it always drops 2 feathers and 2 cooked chicken.
+ 
+Chunk Apocalypse:Each chunk has a 10% chance of being removed.
+ 
+Cripple:When you take fall damage, you gain slowness for 30 seconds.
+ 
+Cupid:Everytime you shoot someone with a bow, you gain 1% of your health back.
+ 
+Cutclean:Food and ores drop smelted.
+ 
+Depths:Mobs do more damage the lower you go on the y-axis.
+ 
+Demolition:World generates with veins of TNT underground, placing a TNT block will ignite it automatically, skeletons spawn more frequently with flame bows and there is no bedrock.
+ 
+Diamondless:Diamonds will drop an iron ingot when mined. They DO NOT DROP ON DEATH.
+ 
+Dried Out:The world is a desert. There is no water and cactus will drop 1 oak log and has a chance to drop apples.
+ 
+Eggs:When you throw an egg, a random mob will spawn where it lands. This includes enderdragons and withers. When you kill a chicken, there is a 25% chance of it dropping an egg.
+ 
+Enchanted Death:You cannot craft enchantment tables, the only way of getting them is from killing players.
+ 
+End Meetup:At meetup, all players are teleported to the end. PvP is off for 20 seconds after teleportation.
+ 
+Everything But Cutclean:All ores except coal give their ore form when mined, stone has a 75% chance to drop stone bricks, animals have a 15% chance to drop no food, skeletons always drop 1 bone meal, zombies have a 20% chance to drop a carrot, endermen have 40% chance to drop an eye of ender, creepers have a 25% chance of dropping TNT, all spiders have a 10% chance to drop fermented spider eyes and grass has a 15% chance to drop wheat.
+ 
+Fast getaway:After you get a kill, you will get speed 2 for 45 seconds.
+ 
+Fast Smelting:Things smelt faster then vanilla smelting.
+ 
+Fireless:You cannot take damage from any type of fire related damage.
+ 
+Flower Power:When you break a flower you can get any item in the game,
+ 
+Kings:At the start of the game, each team is assigned a "King". These kings have special abilities that make them stronger.
+ 
+Gap Zap:If you take damage while regenerating from a golden apple or golden head, the regeneration cancels.
+ 
+Gold Rush:The only armour you can craft is gold and diamond. Nothing else is changed.
+ 
+Goldless:Gold will drop an iron ingot when mined. On death, 8 gold and a golden apple will be added to the drops.
+ 
+Grave Robbers:Whenever a player dies, their stuff will be in a grave (Double chest)
+ 
+Guilty Blood:Upon killing a player, you gain Weakness I for 1 minute.
+ 
+Halloween:Parts of the worrld have been corrupted. In this corrupted area, netherr mobs can spawn. In random parts of the world, pumpkins are places around the world and each pumpkin has a 1 in 5 chance of dropping items. Lightning strikes in random areas of the map at random times. Most mobs are replaced by witches.
+ 
+Hastey Boys:Tools will be enchanted with Efficiency 3 and Unbreaking 1 on craft.
+ 
+Hastey Getaway:After you kill someone you get Haste II for 45 seconds.
+ 
+Ignition:All overworld mobs are constantly on fire (they dont take burning damage) and ignite players. For skeletons, this means they shoot fire arrows.
+ 
+Infinite Potential Hearts:You have an infinite amount of potential hearts.
+ 
+Inventors:The first person to craft any item will be broadcasted in chat.
+ 
+Inverted Depths:Mobs do more damage the higher you are on the y-axis.
+ 
+InvertedSlimyChunks:10% of all chunks are replaced with air with 1 layer of slime block at bedrock level and the chunks placed in the sky upside down.
+ 
+Inverted Chunk Apocalypse:10% of all chunks are replaced with air with 1 layer of slime block at bedrock level and the chunks placed in the sky upside down.
+ 
+Iron Drop:Mining iron ore will not drop iron, killing a zombie drops 1 iron ingot and a poppy.
+ 
+Lavaless:There is no lava. There are chances of obsidian spawning randomly around the map anywhere.
+ 
+Lucky Leaves:On decay, leaves have a 0.1% chance to drop a golden apple.
+ 
+Market:8 Slave owners are chosen and they get a certain amount of diamonds to bid on players as they choose. Any spare diamonds are given back to the owner at the start of the game.
+ 
+Meleefun:There is no delay in between your hits.
+ 
+Mob Shots:If someone gets shot with a bow from a certain distance it spawns a mob on the player.
+ 
+Mob Slayers:If you are the first to kill a type of mob, you get a specific reward.
+ 
+Moles:One person on each team is chosen to be the Mole. The Moles are 1-4 teams and can communicate with the other moles on their mole team, trying to take out the other players. The normal players try to find out who the mole is on their team and kill them.
+ 
+Moved 00:The center of the world is not 0,0. It's been moved to a different spot on the map and those coords will be revealed at meetup.
+ 
+NetherWarfare:The normal world is diamondless. Netherrack in the nether is 5% diamond ore.
+ 
+No Anvils:You can't craft anvils!
+ 
+No Clean:When you kill a player you become invincible for 20 seconds, if you attack while this timer is active, it is removed.
+ 
+No Diamond Armor:You can't obtain or craft diamond armor.
+ 
+No Fall:You don't take fall damage.
+ 
+Parafusion:Every time you complete a certain activity, your coordinates are broadcasted in chat. These activities include: Mining Gold/Diamond, crafting a golden apple, and dying.
+ 
+Paranoia:Every time you complete a certain activity, your name and coordinates are broadcasted in chat. These activities include: Mining Gold/Diamond, crafting a golden apple, and dying.
+ 
+Perma Night:It is always night.
+ 
+Player Swap:Every 5 minutes, two random players on the map will swap locations.
+ 
+Red Arrows:On death, a red arrow made of wool spawns 5 blocks above them.
+ 
+Quadrant Paranoia:Biome Paranoia, but with quadrants. (Also works in chat) (++ red) (+- Blue) (-- Green) (-+ Yellow) Bold means Nether/End.
+ 
+Rewarding Longshots:When shooting players from various distances, you will be rewarded with various items such as iron, gold or diamonds.
+ 
+Rodless:Rods cannot be crafted/used.
+ 
+Rush:The game is shorter.
+ 
+Shovel shortage:No shovels.
+ 
+Split Spwan:Teammates are scattered seperately.
+ 
+Stock Up:Each time a player dies, every other player currently alive gains 1 empty heart (
+ 
+Switcheroo:When you shoot a player, you swap locations with the player you shot.
+ 
+Sky Ores:Instead of in caves, ores are in the sky in the inverted way they would be normally. This means diamonds would be high up and coal will be low.
+ 
+Skyhigh:Every 30 seconds after pvp enables, you will take 0.5 hearts of damage if you are under Y:101.
+ 
+Slimy Chunks:10% of all chunks are replaced with air with 1 layer of slime block at bedrock level.
+ 
+Soup:Right click mushroom soup to gain 3.5 hearts.
+ 
+Team Inventory:Teammates can share a separate inventory which can be accessed using /ti
+ 
+Timber:Breaking a log of a tree will cause the whole tree to fall down.
+ 
+Time Bomb:After killing a player, their loot will drop into a chest. After 30 seconds, the chest will explode.
+ 
+Underground Parallel:Below y50 is a copy of the surface above with changes to trees. Leaves under y50 are replaced with a mix of stone, coal ore, iron ore, lapis ore, gold ore and diamond ore. Logs under level 50 are replaced with a mix of glowstone, redstonre ore and gravel. Mineshafts generate floating below y50.
+ 
+Vanilla:Everything is Vanilla.
+ 
+Vanilla+:Vanilla minecraft with some changes.
+ 
+Vein Miner:If you shift and miwe an ore with the right pickaxe, the entire vein of that ore will all be mined at once. This works with gravel and a shovel as well.
+ 
+Vengeful Spirits:When a player dies, above y 60 a ghast spawns and below y 60 a blaze spawns, you can only get their head by killing that mob.
+ 
+Voidscape:All stone and bedrock is replaced by air.
+ 
+Waterless:There is no water.
+ 
+Webcage:A sphere of cobwebs spawns around a players death location.
